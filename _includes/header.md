@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CSCI P-14200 + CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+Harvard Summer School\\
+2019
